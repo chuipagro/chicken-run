@@ -21,6 +21,7 @@ compile_commands.json
 *.dll
 *.so
 *.dylib
+server/.env
 
 # === Logs & OS junk ===
 *.log
